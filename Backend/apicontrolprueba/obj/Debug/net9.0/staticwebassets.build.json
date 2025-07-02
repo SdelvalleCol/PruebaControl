@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "bG5VNAw5hPxaTCdoqkAXdRuUTrv4KEgjLf9d5qbXV4U=",
+  "Source": "apicontrolprueba",
+  "BasePath": "_content/apicontrolprueba",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
